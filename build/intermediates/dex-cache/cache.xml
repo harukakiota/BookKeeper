@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="84ee7fc92a56faf9806734fdd57032a25b6d047b">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3247de23a05ed0a77c8ca22547463695bac0b504\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\994c83e5910de84e5650333e573d484d1630aa2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_ce9faf4087c3da576dac3db4f3a3a1259b17a04a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudio\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_34ced0e7decc34fdbfdcfc3121b6328e1bc273d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.2.4\7abd1ecef320da6a7679b137083151401fe8bf43\MPAndroidChart-v2.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7abd1ecef320da6a7679b137083151401fe8bf43">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v2.2.4_5191ea1247f2d0db3df2eeb94afbafe5f3e5f76f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\4a521b67204a7cd5effd3f9717b76b5604d8a8fb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_fceea224761f505eeb3f15a83a1bc7473c2083c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\608366c3473bd0a9fb01fac78f13c7bca074d492\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_93995537c823d4ea4ec73f778f45b90f2d13dee5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\744ca17e0483611cb1eec1cad8c2e7a1608ffe90\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_7cfb6b649bf6231204d793d4e2c10281b7e4cdb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\AndroidStudio\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_7b901f4b38ebd405410cdfcea5feedfc40958cb6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\e38907bec38f1e1bd5a3d66bf409deb996db0bf8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_c8e616c379f731be536d79707a27601f2c95005d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\b96291b0f451dd167608c6a5b8a43fad5743dd1e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_48867b40aefc2f5ad4358f400605ad66edd30ade.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\f9d7248f5cd43b64169ed9e44784b0ea41095576\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_e62d9c918d11ac05729741a12f7bd48da80ba863.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\e53b9a1edae1d0f0c9fea84d341e8b124ecea22f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_8c8a47b107c6a84492703c5cf2bbbd04484723a8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a0d5fb9399d03df5d06fdc788c8d6c7359bd315b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\e7bcb3d55e32980920e1ba410bf29b7bbfcf6e37\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_02641d8197687e7bfc530c2e3cac91fc2797cf51.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\f110996c54800d08785c2f3f39aef0ef9931a167\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_eb36412eb2f8b692c55b3f211631c2097d6dc5bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\5c4803bcc79666855c3a05d03704cac62d70d59e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_c85ba16bef76d6a359b9fd00349f806f63343a43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\650afddac669573dd3a83a60aa8d703b0a8cd36a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_17d0d6ad8e44ae41fd1d4d872fb4ff69f697ceb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Юлия\.android\build-cache\725b60fe3a66651274483e93369f3c4d47bd66a8\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\AndroidStudio\Projects\BookKeeper\app\build\intermediates\pre-dexed\debug\classes_b05c405f3236a8dfd0173de549c8102e569b9802.jar" />
+    </item>
+
+</items>
