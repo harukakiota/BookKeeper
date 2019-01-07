@@ -35,7 +35,7 @@ public class HistoryActivity extends MainActivity implements DatePickerDialog.On
     int wrapContent = LinearLayout.LayoutParams.WRAP_CONTENT;
     int matchParent = LinearLayout.LayoutParams.MATCH_PARENT;
 
-    String[] categoriesArr = {"Все", "Продукты", "Счета", "Развлечения", "Транспорт", "Здоровье", "Одежда", "Бытовые", "Другое"};
+    String[] categoriesArr = {"Все", "Супермаркеты", "Рестораны", "Счета", "Развлечения", "Транспорт", "Здоровье", "Одежда", "Бытовые", "Личное", "Другое"};
     String[] shownNumber = {"50", "100", "200", "Все"};
     Spinner categorySpinner, entriesSpinner;
     TableLayout tableLayout;

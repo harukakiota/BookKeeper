@@ -15,7 +15,7 @@ public class SettingsActivity extends MainActivity implements View.OnClickListen
     EditText countingDate;
     Button okButton;
     public static final String APP_PREFERENCES = "settings";
-    public static final String APP_PREFERENCES_SMS = "sms";
+    //public static final String APP_PREFERENCES_SMS = "sms";
     public static final String APP_PREFERENCES_COUNTING = "counting";
     SharedPreferences settings;
 
@@ -25,7 +25,7 @@ public class SettingsActivity extends MainActivity implements View.OnClickListen
         setContentView(R.layout.activity_settings);
 
         countingDate = (EditText) findViewById(R.id.countingDate);
-        smsCheckBox = (CheckBox) findViewById(R.id.checkBoxSms);
+//        smsCheckBox = (CheckBox) findViewById(R.id.checkBoxSms);
         settings =  getSharedPreferences(APP_PREFERENCES, Context.MODE_PRIVATE);
 
         okButton = (Button) findViewById(R.id.okButtonSettings);
@@ -43,8 +43,8 @@ public class SettingsActivity extends MainActivity implements View.OnClickListen
         SharedPreferences.Editor editor = settings.edit();
         editor.clear();
         editor.putInt(APP_PREFERENCES_COUNTING, counting);
-        editor.clear();
-        editor.putBoolean(APP_PREFERENCES_SMS, smsCheckBox.isChecked());
+//        editor.clear();
+//        editor.putBoolean(APP_PREFERENCES_SMS, smsCheckBox.isChecked());
         editor.apply();
     }
 
@@ -56,9 +56,9 @@ public class SettingsActivity extends MainActivity implements View.OnClickListen
             int data = settings.getInt(APP_PREFERENCES_COUNTING, 0);
             countingDate.setText(String.valueOf(data));
         }
-        if (settings.contains(APP_PREFERENCES_SMS)) {
-            smsCheckBox.setChecked(settings.getBoolean(APP_PREFERENCES_SMS, false));
-        }
+//        if (settings.contains(APP_PREFERENCES_SMS)) {
+//            smsCheckBox.setChecked(settings.getBoolean(APP_PREFERENCES_SMS, false));
+//        }
     }
 
     public void onClick(View v) {

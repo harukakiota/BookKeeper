@@ -130,7 +130,7 @@ class DBHelper extends SQLiteOpenHelper {
     // методы для MainActivity
 
     public int [] countMonthlyByCategories(int startingDay) {
-        int [] categoriesArr = new int[8];
+        int [] categoriesArr = new int[10];
 
         Calendar calendar = Calendar.getInstance();
         int today = calendar.get(Calendar.DAY_OF_MONTH);

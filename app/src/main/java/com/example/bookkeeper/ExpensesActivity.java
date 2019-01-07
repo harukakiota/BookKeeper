@@ -21,7 +21,7 @@ public class ExpensesActivity extends AppCompatActivity implements DatePickerDia
 
     private static final int UNIX_CONVERT = 86400000;
 
-    String[] categoriesArr = {"Продукты", "Счета", "Развлечения", "Транспорт", "Здоровье", "Одежда", "Бытовые", "Другое"};
+    String[] categoriesArr = {"Супермаркеты", "Рестораны", "Счета", "Развлечения", "Транспорт", "Здоровье", "Одежда", "Бытовые", "Личное", "Другое"};
     Button okButton;
     Spinner spinner;
     TextView textDate;

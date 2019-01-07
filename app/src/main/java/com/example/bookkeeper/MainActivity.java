@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     private SharedPreferences settings;
 
     int [] categoriesArr = new int[8];
-    String[] categoriesArrString = {"Продукты", "Счета", "Развлечения", "Транспорт", "Здоровье", "Одежда", "Бытовые", "Другое"};
+    String[] categoriesArrString = {"Супермаркеты", "Рестораны", "Счета", "Развлечения", "Транспорт", "Здоровье", "Одежда", "Бытовые", "Личное", "Другое"};
     int startingDay = 0;
 
     Button addButton;
